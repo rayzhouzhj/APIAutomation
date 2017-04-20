@@ -1,8 +1,6 @@
 package com.auto.common.utils;
 
 import java.io.File;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.List;
 import java.util.Properties;
 
@@ -58,10 +56,13 @@ public class EmailUtils {
 
 	public static void sendEmail(List<String> toList, String subject, String contentDetail, String attachment){  
 		String from = ""; //change accordingly  
-		//		String host = "smtp.gmail.com"; //or IP address  
-		String host = ""; //or IP address  
+		
+		ConfigReader config = new ConfigReader("datasources" + File.separator + "pushmessage.properties");
+		String host = config.getAttribute("Host");
+		String user = config.getAttribute("UserName");
+		String pwd = config.getAttribute("Passward");
 
-		MailAuthenticator authenticator = new EmailUtils().new MailAuthenticator("", "");
+		MailAuthenticator authenticator = new EmailUtils().new MailAuthenticator(user, pwd);
 		//Get the session object  
 		Properties properties = System.getProperties();  
 		properties.setProperty("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory");   
