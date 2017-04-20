@@ -1,0 +1,2 @@
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>remove email host</message>\n<message>Remove resources files</message>\n<message>remove useless data files</message>\n<message>Fix TestManager4API issue for calling junit test cases</message>\n<message>Update Test Lib</message>\n<message>Update TestExecutor</message>\n<message>Update Auto Fwk baseTest</message>\n<message>Add back Execution exception</message>\n<message>Update Auto Framework</message>\n<message>Update Auto Utils</message>\n</messages>
+eclipse.preferences.version=1

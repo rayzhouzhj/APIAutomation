@@ -1,0 +1,22 @@
+1491966408521	Rename package 'com.tinklabs.handy.tools'
+1491966421508	Rename package 'com.tinklabs.handy.tools.context'
+1491966433974	Rename package 'com.tinklabs.handy.tools.log.layouts'
+1491966448970	Rename package 'com.tinklabs.handy.tools.models'
+1491966486511	Rename package 'com.tinklabs.handy.tools.ui'
+1491966500010	Rename package 'com.tinklabs.handy.tools.ui.components'
+1491966512190	Rename package 'com.tinklabs.handy.tools.ui.components.action'
+1491966525493	Rename package 'com.tinklabs.handy.tools.ui.components.editor'
+1491966545305	Rename package 'com.tinklabs.handy.tools.ui.components.filter'
+1491966560687	Rename package 'com.tinklabs.handy.tools.ui.components.handler'
+1491966572590	Rename package 'com.tinklabs.handy.tools.ui.components.listener'
+1491966584590	Rename package 'com.tinklabs.handy.tools.ui.components.renderer'
+1491966595312	Rename package 'com.tinklabs.handy.tools.ui.components.util'
+1491966612961	Rename package 'com.tinklabs.handy.tools.ui.constant'
+1491966625400	Rename package 'com.tinklabs.handy.tools.util'
+1491967239758	Delete elements
+1491967247483	Delete element
+1491967262647	Delete element
+1491967289555	Rename package 'com.auto.handy.tools'
+1491967322233	Delete element
+1491970339709	Rename field 'handyTestJar'
+1491970352361	Rename field 'handyFwkJar'

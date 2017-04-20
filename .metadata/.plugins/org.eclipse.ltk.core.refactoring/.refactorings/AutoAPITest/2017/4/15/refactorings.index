@@ -1,0 +1,27 @@
+1491966129997	Rename package 'com.tinklabs.api.request'
+1491966144766	Rename package 'com.tinklabs.api.response'
+1491966156141	Rename package 'com.tinklabs.api.test.ticket.airportexpress'
+1491966168299	Rename package 'com.tinklabs.api.test.ticket.common'
+1491966179085	Rename package 'com.tinklabs.api.ticket.components.subcomponents'
+1491966189845	Rename package 'com.tinklabs.api.ticket.request'
+1491966202007	Rename package 'com.tinklabs.api.ticket.response'
+1491966213134	Rename package 'com.tinklabs.api.ticket.response.components'
+1491966224028	Rename package 'com.tinklabs.utils'
+1491966235539	Rename package 'com.tinklabs.web.device.model'
+1491966246368	Rename package 'com.tinklabs.web.pushmessage'
+1491966257449	Rename package 'com.tinklabs.web.pushmessage.db.models'
+1491966267558	Rename package 'com.tinklabs.web.request'
+1491966278143	Rename package 'com.tinklabs.web.test'
+1491966949966	Delete elements
+1491966968139	Delete elements
+1491966985370	Delete elements
+1491967016833	Rename package 'com.auto.api.test.ticket.airportexpress'
+1491967026860	Delete elements
+1491967089835	Delete element
+1491985971666	Delete element
+1491985979440	Delete element
+1491985988753	Delete element
+1491985997468	Delete element
+1491986006374	Delete elements
+1491986012959	Delete element
+1491986159118	Delete elements
